@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{D6F7E536-7C34-46FC-A421-3069C9695D61}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Treehouse.FitnessFrog/Controllers/EntriesController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Treehouse.FitnessFrog/Models/Entry.cs">
     <Files>
-      <File FileName="Treehouse.FitnessFrog/Controllers/EntriesController.cs" Line="59" Column="52" />
-      <File FileName="Treehouse.FitnessFrog/Views/Entries/Add.cshtml" Line="17" Column="53" />
+      <File FileName="Treehouse.FitnessFrog/Controllers/EntriesController.cs" Line="50" Column="32" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/Index.cshtml" Line="6" Column="1" />
+      <File FileName="Treehouse.FitnessFrog/Views/Entries/Add.cshtml" Line="22" Column="109" />
       <File FileName="Treehouse.FitnessFrog/Views/Shared/_Layout.cshtml" Line="41" Column="17" />
-      <File FileName="Treehouse.FitnessFrog/Views/Entries/Index.cshtml" Line="43" Column="47" />
-      <File FileName="Treehouse.FitnessFrog/Models/Entry.cs" Line="4" Column="11" />
+      <File FileName="Treehouse.FitnessFrog/Models/Entry.cs" Line="67" Column="44" />
       <File FileName="Treehouse.FitnessFrog/Data/EntriesRepository.cs" Line="1" Column="1" />
+      <File FileName="Treehouse.FitnessFrog/Data/Data.cs" Line="11" Column="50" />
+      <File FileName="Treehouse.FitnessFrog/Models/Activity.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
